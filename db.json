@@ -1,0 +1,28 @@
+{
+    "restaurants":[
+        {
+            "id": 1,
+            "name": "els tinars",
+            "descripcio": "menjar tradicional mediterrani",
+            "email": "elstinars@gmail.com",
+            "telefon": "992333654"
+        },
+
+        {
+            "id": 2,
+            "name": "asador",
+            "descripcio": "carnes españolas",
+            "email": "asadorjuaco@gmail.com",
+            "telefon": "9876544567"
+        },
+
+        {
+            "id": 3,
+            "name": "McDonalds",
+            "descripcio": "carnes de mala calidad",
+            "email": "mcdo@gmail.com",
+            "telefon": "987634536"
+        }
+
+    ]
+}
