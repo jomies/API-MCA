@@ -1,27 +1,30 @@
 {
     "restaurants":[
         {
-            "id": 1,
-            "name": "els tinars",
+            "uid": 1,
+            "nom": "els tinars",
+            "direccio": "17240, Girona",
+            "email": "reservas@tinars.com",
+            "telefon": "992333654",
             "descripcio": "menjar tradicional mediterrani",
-            "email": "elstinars@gmail.com",
-            "telefon": "992333654"
         },
 
         {
-            "id": 2,
-            "name": "asador",
-            "descripcio": "carnes españolas",
+            "uid": 2,
+            "nom": "asador",
+            "direccio": "carnes españolas",
             "email": "asadorjuaco@gmail.com",
-            "telefon": "9876544567"
+            "telefon": "9876544567",
+            "descripcio": "Menjar de carns españoles"
         },
 
         {
-            "id": 3,
-            "name": "McDonalds",
-            "descripcio": "carnes de mala calidad",
+            "uid": 3,
+            "nom": "McDonalds",
+            "direccio": "Hamburguesas Baratas",
             "email": "mcdo@gmail.com",
-            "telefon": "987634536"
+            "telefon": "987634536",
+            "descripcio": "carnes de mala calidad"
         }
 
     ]
