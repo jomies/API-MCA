@@ -1,7 +1,6 @@
 {
     "restaurants":[
         {
-            "uid": 1,
             "nom": "els tinars",
             "direccio": "17240, Girona",
             "email": "reservas@tinars.com",
@@ -10,7 +9,6 @@
         },
 
         {
-            "uid": 2,
             "nom": "asador",
             "direccio": "carnes españolas",
             "email": "asadorjuaco@gmail.com",
@@ -19,7 +17,6 @@
         },
 
         {
-            "uid": 3,
             "nom": "McDonalds",
             "direccio": "Hamburguesas Baratas",
             "email": "mcdo@gmail.com",
